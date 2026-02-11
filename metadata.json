@@ -1,0 +1,6 @@
+
+{
+  "name": "Simple Task Manager",
+  "description": "A high-performance task management system featuring a Node.js/MongoDB backend and Gemini AI subtask generation.",
+  "requestFramePermissions": []
+}
